@@ -92,7 +92,7 @@ void Image ::rotateColor(double angle){
 
 After specifying the color using the hue value you can specify the saturation of your color. In the HSL color wheel the saturation specifies the distance from the middle of the wheel. So a saturation value of 0 (0%) means "center of the wheel", i.e. a grey value, whereas a saturation value of 1 (100%) means "at the border of the wheel", where the color is fully saturated.
 
-<p align="center"> <img  src="http://www.chaospro.de/documentation/html/paletteeditor/images/huesat.jpg"> <br></p>
+<p align="center"> <img  src="https://user-images.githubusercontent.com/86808736/138590339-4381fad6-fac4-484b-9e31-a12b275f805a.jpg"> <br></p>
 
                                                 *Example [Saturation=40%]
 
