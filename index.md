@@ -21,10 +21,14 @@ A titre d’exemple le niveau de gris et illini de l’image …etc.
 ## HSL
 >HSL is short for Hue, Saturation and Luminance.
 >The HSL color space defines colors more naturally: Hue specifies the base color, the other two values then let you specify the saturation of that color and how bright the color should be.
+
 ### Hue
+
 As you can see in the image, hue specifies the color. Hue is normally specified as either degrees ranging from 0° to 360° or as numbers from 0 to 6, in the image at the left side both starting at the 3 o'clock position and measured anti-clockwise.
 
 There are 6 base colors:
+
+
 | Hue           | Degree        |        Color |
 | ------------- | ------------- | -------------|
 | 0  | 0  | red|
@@ -37,6 +41,7 @@ There are 6 base colors:
 
 ### Saturartion
 After specifying the color using the hue value you can specify the saturation of your color. In the HSL color wheel the saturation specifies the distance from the middle of the wheel. So a saturation value of 0 (0%) means "center of the wheel", i.e. a grey value, whereas a saturation value of 1 (100%) means "at the border of the wheel", where the color is fully saturated.
+
 <p align="center"> <img  src="http://www.chaospro.de/documentation/html/paletteeditor/images/huesat.jpg"> <br></p>
 
 ### Luminance
@@ -45,6 +50,7 @@ The third parameter in the HSL color space is the luminance. This lets you speci
 If you slowly increase the luminance, you will see the color changing from black at 0% and then through a darker version of your color, to your color in its full brightness at 50%, and then getting brighter until finally it reaches white at 100%.
 
 The following six luminance sliders show you what happens with colors if you change the luminance:
+
   <p align="center"> <img  src="https://user-images.githubusercontent.com/86808736/138558157-63b1da2c-40ee-4f0c-8c88-0725a4559812.png"> <br></p>
 
 
