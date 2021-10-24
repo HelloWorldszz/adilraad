@@ -1,8 +1,8 @@
 ---
 Projet 1 : HSLA Images
 ---
-**Réalisé par : ADIL ERAAD,SAID EL
-OUARDIbold**
+**Réalisé par : _Adil Erraad,Said El
+Ouardi_**
 
 [Link to another page](./another-page.html).
 
