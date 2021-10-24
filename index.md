@@ -51,7 +51,7 @@ public:
 
 As you can see in the image, hue specifies the color. Hue is normally specified as either degrees ranging from 0° to 360° or as numbers from 0 to 6, in the image at the left side both starting at the 3 o'clock position and measured anti-clockwise.
 
-There are 6 base colors:
+                                                 There are 6 base colors:
 
 | Hue           | Degree°        |        Color |
 | ------------- | ------------- | -------------|
@@ -63,7 +63,7 @@ There are 6 base colors:
 | 5  | 300°  |magneta |
 | 6  | 360° |red |
 
-*Example [Hue=90°]
+                                                 *Example [Hue=90°]
 
 
  <p align="center"> <img  src="https://user-images.githubusercontent.com/86808736/138588617-329d0454-199b-48a2-9303-209264bbabee.png"> <br></p>
@@ -94,7 +94,7 @@ After specifying the color using the hue value you can specify the saturation of
 
 <p align="center"> <img  src="http://www.chaospro.de/documentation/html/paletteeditor/images/huesat.jpg"> <br></p>
 
-*Example [Saturation=40%]
+                                                *Example [Saturation=40%]
 
  <p align="center"> <img  src="https://user-images.githubusercontent.com/86808736/138589265-536bc89c-4e5f-4558-9537-96907804f6af.png"> <br></p>
  
@@ -125,7 +125,7 @@ The following six luminance sliders show you what happens with colors if you cha
 
   <p align="center"> <img  src="https://user-images.githubusercontent.com/86808736/138558157-63b1da2c-40ee-4f0c-8c88-0725a4559812.png"> <br></p>
   
-  *Example [Luminance=40%]
+                                                  *Example [Luminance=40%]
 
  <p align="center"> <img  src="https://user-images.githubusercontent.com/86808736/138589284-dcce46a4-3388-423f-b378-0fd6eac92a10.png"> <br></p>
 
@@ -152,7 +152,7 @@ in digital photography, computer-generated imagery, and colorimetry, a grayscale
 So Graycale is Effect of reducing the saturation of each pixel.
 
 
-*Example
+                                                *Example
 
  <p align="center"> <img  src="https://user-images.githubusercontent.com/86808736/138589399-24d4849e-0028-4110-986c-25db17b17e26.png"> <br></p>
 
@@ -191,7 +191,7 @@ void Grayscale ::Gs(){
 ### Illiny
 It is an effect located on the image that converts each color between blue = 11 and orange = 216 to the closest color between them.
 
-*Example
+                                                *Example
 
  <p align="center"> <img  src="https://user-images.githubusercontent.com/86808736/138589518-4a3c9e5c-fc4f-4a09-9e38-8ce14b953051.png"> <br></p>
 
