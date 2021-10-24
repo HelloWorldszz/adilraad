@@ -1,15 +1,10 @@
-qsdqsdqdqdqdsd
 ---
-layout: default  HEllow oadjad
+Projet 1 : HSLA Images
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Réalisé par : ADIL ERAAD,SAID EL
+OUARDIbold**
 
 [Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # HSLA Images
 
